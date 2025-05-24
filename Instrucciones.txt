@@ -1,0 +1,1 @@
+Para correr el taller solo es necesario correr ventana principal en el paquete principal, esto desplegara toda la interfaz correspondiente
